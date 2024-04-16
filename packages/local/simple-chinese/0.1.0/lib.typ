@@ -21,7 +21,7 @@
         #v(1em, weak: true)
       ]
     ] else [
-      #emph(it.body)
+      #strong(it.body)
     ]
   }
 
