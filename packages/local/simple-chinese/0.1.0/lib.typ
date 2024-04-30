@@ -35,6 +35,8 @@
     it.body
   }
 
+  show raw: set text(font: ("Monaspace Neon", "Sarasa Mono SC"))
+
   show math.equation: set text(
     font: ("New Computer Modern Math", "FZNewShuSong-Z10", "Source Han Serif SC"),
   )
